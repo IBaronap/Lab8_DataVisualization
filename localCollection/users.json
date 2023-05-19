@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "dob": "1994-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "dob": "1995-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 3,
+      "name": "David Giraldo",
+      "email": "josedavidgm1995@gmail.com",
+      "dob": "1995-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 4,
+      "name": "Camilo Montoya",
+      "email": "cajomo@gmail.com",
+      "dob": "1997-02-04",
+      "phone": "3162789947",
+      "OS": "Android",
+      "privacyAgreement": true
+    },
+    {
+      "id": 5,
+      "name": "Arturo Gomez",
+      "email": "arturogomez@gmail.com",
+      "dob": "1997-02-04",
+      "phone": "3162789944",
+      "OS": "Android",
+      "privacyAgreement": true
+    },
+    {
+      "id": 6,
+      "name": "Isabella Barona",
+      "email": "isabella.baronap@gmail.com",
+      "dob": "2003-04-21",
+      "phone": "3164444444",
+      "OS": "Desktop",
+      "privacyAgreement": true
+    },
+    {
+      "id": 7,
+      "name": "Jay Doe",
+      "email": "JD23@gmail.com",
+      "dob": "2007-01-30",
+      "phone": "3174448888",
+      "OS": "Desktop",
+      "privacyAgreement": true
+    }
+  ]
+}
